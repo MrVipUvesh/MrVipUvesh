@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MrVipUvesh/MrVipUvesh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MrVipUvesh/MrVipUvesh/output/snake.svg" alt="Snake Game Animation" />
 
 ###
